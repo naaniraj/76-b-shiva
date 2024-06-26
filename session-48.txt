@@ -115,9 +115,14 @@ usermod -aG docker centos
 image vs container
 AMI vs EC2 instance
 
-docker images --> show you the images exist in server
+docker images --> show you the images exist in server(list of images)
 docker pull nginx --> pulls the image from hub
-docker pull nginx --> pulls the image from hub
+docker create <image-id>/<image:version>--> to create a containers
+docker ps -->list of only running containers
+docker ps -a --> to see all containers
+docker start <container-id>-->to start container
+docker stop <container-id>-->to stop container
+
 nginx AMI = any OS + install nginx = nginx AMI
 nginx image = base os + nginx installed
 docker create <image ID>/<image-name>:version --> container will be created
@@ -129,12 +134,15 @@ docker start container id --> start the container
 
 docker rm container id
 remove images --> docker rmi <image-name>/id
+docker rmi <image-id>--> to remove image
 docker rmi `docker images -a -q` --> removes all images
 
 pull+create+start = docker run
 
-docker run -d --> to run container in background
-docker exec -it conatainer id bash
+docker run -d --> to run container in background (detach mode)
+docker exec -it conatainer id bash-->to get acess of running containerss
+docker run -d -p new port:old port <container name/id>--->to change previous port number of image
+docker run -d --name new_name <container-name>-->to change name of the old image
 
 0-65,535 ports
 0-65,535 a container will have
