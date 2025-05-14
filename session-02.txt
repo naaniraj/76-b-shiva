@@ -1,4 +1,4 @@
-Recap
+Recap:
 ----------
 Client Server
 EC2 instance launch
