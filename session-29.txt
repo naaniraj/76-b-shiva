@@ -2,7 +2,7 @@ Modules development
 -----------------------
 DRY --> Don't repeat yourself
 
-code reuse, no need to write infra for every project from the scratch
+code reuse, no need to write infra for every project from the scratch 
 
 ec2.tf
 variables.tf
