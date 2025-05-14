@@ -1,4 +1,4 @@
-user can decide peering required or not
+user can decide peering required or not 
 if required
 	1. they have to give peering VPC ID
 	2. if they are not giving peering VPC ID, we will consider default VPC
