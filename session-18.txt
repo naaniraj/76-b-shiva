@@ -8,7 +8,7 @@ shell disadvantages
 4. readability
 5. shell will only work for linux, will not work with external systems
 
-Configuration management
+Configuration management ;
 -------------------
 configure your laptop
 to make server ready for application deployment is called configuring server
