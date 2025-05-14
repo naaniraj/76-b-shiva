@@ -3,7 +3,7 @@ conditions
 	condition ? "true" : "false"
 	
 functions
-loops
+loops 
 	count based loops --> useful mostly to iterate lists
 	foreach --> useful to iterate maps
 	dynamic loop
