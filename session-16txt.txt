@@ -5,7 +5,7 @@ loops
 functions
 
 
-algorithm
+algorithm :
 -----------------
 
 
