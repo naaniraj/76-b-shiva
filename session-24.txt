@@ -1,4 +1,4 @@
-ansible vault
+ansible vault 
 --------------
 storage of secrets
 
