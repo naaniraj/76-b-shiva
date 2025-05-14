@@ -20,7 +20,7 @@ latency: time to respond --> slow
 security: 
 cost: data charges
 
-DNS --> Domain name system
+DNS --> Domain name system :
 ---------------------------
 amazon.us --> IP address
 not in our home network
