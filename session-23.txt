@@ -1,5 +1,5 @@
 ansible.cfg --> ansible configuration file
-
+ 
 1. ANSIBLE_CONFIG (environment variable if set)
 
 2. ansible.cfg (in the current directory)
