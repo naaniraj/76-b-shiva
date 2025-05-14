@@ -1,6 +1,6 @@
 Terraform --> popular infrastructure as a code
 
-Ansible --> configutation management, configutation as a code
+Ansible --> configutation management, configutation as a code 
 
 manual
 shell script
