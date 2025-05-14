@@ -4,7 +4,7 @@ loops
 
 command --> won't respect target machine shell variables and environment, it is running the command from outside
 shell --> It is like you logged in inside target machine directly and running command
-
+ 
 
 if I login to catalogue
 -----------------------
