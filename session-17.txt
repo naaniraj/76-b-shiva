@@ -18,7 +18,7 @@ AWS instances, route 53 records
 2. mongodb, mysql, shipping we are creating t3.small remaining t2.micro
 3. creating route53 records, web public ip remaining private ip
 
-IAM --> identity access management
+IAM --> identity access management :
 -----------------------------------
 Authentication --> username/password
 Authorization
