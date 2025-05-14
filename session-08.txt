@@ -1,4 +1,4 @@
-DNS
+DNS:
 ----------------------
 Domain name system
 
