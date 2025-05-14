@@ -1,4 +1,4 @@
-errors
+errors:
 -------------
 web --> roboshop.conf catalogue IP
 catalogue --> is running or not
