@@ -13,7 +13,7 @@
 
 github  --> a folder in internet with some tracking capabilities
 
-clone a repo from git
+clone a repo from git :
 -------------------------------
 clone --> downloading a copy
 git clone <URL>
