@@ -2,7 +2,7 @@ variables
 
 DATE=2023-09-09
 
-using loops install any no of packages
+using loops install any no of packages :
 --------------------------------------
 sh 13-install-packages.sh git mysql gcc postfix net-tools
 
