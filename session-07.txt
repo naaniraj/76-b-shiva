@@ -7,7 +7,7 @@ Roboshop configure  ;
 DB apps are called statefull
 App/Web apps are called stateless
 
-CRUD over database
+CRUD over database :
 --------------------
 create user
 read user
