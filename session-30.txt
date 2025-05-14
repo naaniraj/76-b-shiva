@@ -1,5 +1,5 @@
 HA
-atleast 2 AZ resources be there
+atleast 2 AZ resources be there 
 
 az-1 public subnet az-2 public subnet
 az-1 10.0.1.0/24 
