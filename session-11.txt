@@ -1,4 +1,4 @@
-Project configuration
+Project configuration :
 ----------------------
 create a server
 installed programming language
