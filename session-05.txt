@@ -1,4 +1,4 @@
-Putty
+Putty :
 -----------
 username
 private-key/password
